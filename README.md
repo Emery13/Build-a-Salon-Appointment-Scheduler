@@ -4,7 +4,7 @@ This is one of the required projects to earn the certification. For this project
 ## Instructions
 Follow the instructions and get all the user stories below to pass to finish the project. Create your database by logging in to psql with psql --username=freecodecamp --dbname=postgres. You can query the database in your script with psql --username=freecodecamp --dbname=salon -c "SQL QUERY HERE", add more flags if you need to. Be sure to get creative, and have fun!
 
-## Don't forget to connect to your database to add tables after you create it 😄
+**Don't forget to connect to your database to add tables after you create it** 😄
 
 Hints:
 -- Your script needs to finish running after doing any of the tasks described below or the tests won't pass
